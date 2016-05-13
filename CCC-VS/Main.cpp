@@ -27,7 +27,7 @@ void output(const char logpath[100]) {
 	FILE *log;
 	char current;
 
-	log = fopen(logpath, "r+");
+	log = fopen(logpath, "r+t");
 		if (log != NULL) {
 			current = fgetc(log);
 			while (current != EOF) {
