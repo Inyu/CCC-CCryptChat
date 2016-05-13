@@ -1,1 +1,4 @@
-[TEST]: TEST 00:00:00
+[USER1]: "Message Test"			(0:00:00)
+[USER2]: "Testmessage" 			(0:00:02)
+[USER1]: "Well then!"			(0:00:03)
+[USER3]: "01000110" 			(0:00:06)
