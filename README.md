@@ -1,5 +1,5 @@
 # CCC-CCryptChat
 
-<<Currently not usable>>
+<Currently not usable>
 
 License: MIT
